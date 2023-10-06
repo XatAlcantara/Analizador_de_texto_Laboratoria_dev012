@@ -2,7 +2,7 @@
 
 ![Vista text analyzer](/Users/xatzibe_alcantara/Downloads/DEV012-text-analyzer-main/Captura de pantalla 2023-10-04 a la(s) 16.12.03.png)
 
-##Indice
+## Indice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 *[Descripción del proyecto](#descripción-del-proyecto)
